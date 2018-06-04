@@ -11,7 +11,7 @@
 -------
 Python Version : 2.7.13  <br />
 Postfix需開啟驗證功能(預設為不開啟)  <br />
-需下載scapy套件
+需下載並安裝scapy函式庫
 
 
 使用方法:
