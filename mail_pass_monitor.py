@@ -1,5 +1,6 @@
 # This script for postfix(SMTP) and Dovecot(POP3 IMAP)
 # Set "disable_plaintext_auth = no" in dovecot to Test.
+# Need set SASL.
 # You should create 'passlist.txt' and type in your whitelist IP address in same directory , Thanks.
 # Suggest : Type Server's IP in passlist.txt.
 # if you have many IP , Please change line and typing.
