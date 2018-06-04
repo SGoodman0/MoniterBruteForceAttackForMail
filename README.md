@@ -2,9 +2,10 @@
 -------
 本程式對密碼嘗試進行偵測並以iptables進行防護
 
-僅針對postfix與dovecot提供之mail service
-其他相關套件等並未測試，但驗證之回傳訊息皆以同一標準
+僅針對postfix與dovecot提供之mail service  <br />
+其他相關套件等並未測試，但驗證之回傳訊息大都為同一標準  <br />
 理論上應可使用，但須更改syslog之設定路徑參數等
+
 
 環境:
 -------
