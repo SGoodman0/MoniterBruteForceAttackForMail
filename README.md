@@ -8,7 +8,7 @@
 -------
 本程式對 Mail 的暴力解攻擊進行偵測，
 
-基本上是透過 syslog 去偵測，滿足條件時，以 iptables 進行後處理之防護。
+基本上是透過 Scapy 去偵測，滿足條件時，以 iptables 進行後處理之防護。
 
 僅針對postfix與dovecot提供之mail service，
 
